@@ -1,4 +1,4 @@
-[![MasterHead]<img width="1834" alt="Make your README" src="https://github.com/sajjad-source/sajjad-source/assets/121021428/a14d2441-72c5-4473-ae8a-8821112086b8">
+<img width="1834" alt="Make your README (1)" src="https://github.com/sajjad-source/sajjad-source/assets/121021428/9b0c2ed3-60e5-4859-83bd-bac9b2e126c7">
 
 <h1 align="center">Hi 👋, I'm Sajjad</h1>
 <h3 align="center">A passionate fullstack developer from San Diego</h3>
@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **AR/VR Development**
 
-- 🤝 I’m looking for help with **Internship recruitment**
+- 🤝 I’m looking for help with **Internship Recruitment**
 
-- 💬 Ask me about **Fullstack/Mobile Development**
+- 💬 Ask me about **Fullstack/Game Development**
 
 - 📫 How to reach me **sajjadck04@gmail.com**
 
-- ⚡ Fun fact **I have a passion for medicine**
+- ⚡ Fun fact **I Have a Passion For Medicine**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
