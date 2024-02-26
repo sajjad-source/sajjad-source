@@ -1,7 +1,7 @@
 <img width="1834" alt="Make your README (1)" src="https://github.com/sajjad-source/sajjad-source/assets/121021428/9b0c2ed3-60e5-4859-83bd-bac9b2e126c7">
 
 <h1 align="center">Hi 👋, I'm Sajjad</h1>
-<h3 align="center">A passionate fullstack developer from San Diego</h3>
+<h3 align="center">A passionate backend developer from San Diego</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 - 🔭 I’m currently working on **Building a VR Game**
@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Internship Recruitment**
 
-- 💬 Ask me about **Fullstack/Game Development**
+- 💬 Ask me about **Backend/Game Development**
 
 - 📫 How to reach me **sajjadck04@gmail.com**
 
