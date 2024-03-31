@@ -2,15 +2,13 @@
 <h3 align="center">A backend developer from San Diego</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-- 🔭 I’m currently working on **Building a VR Game**
+- 🔭 I’m currently working on **building an app**
 
-- 🌱 I’m currently learning **Fullstack Development**
+- 🌱 I’m currently learning **fullstack development**
 
-- 💬 Ask me about **Backend/Game Development**
+- 💞️ I am looking for **a software engineering internship**. 
 
 - 📫 How to reach me **sajjadck04@gmail.com**
-
-- ⚡ Fun fact **I Have a Passion For Medicine**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
