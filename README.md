@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 - 🌱 I have experience in developing complex software systems, including a healthcare management system and a comprehensive search engine. I have also worked on various applications ranging from a Rust kernel to a tiny operating system.
-- 👨‍💻 I am currently a Software Engineer Intern at Justworks on their Workers Compensation team.
-- 💻 In my free time, I am working on building a tiny OS.
-- 💞️ I am looking for 2025 Software Engineering Internships.
+- 👨‍💻 I am currently incoming Software Engineer Intern @ Meta (Product Infrastructure at Facebook).
+- 💻 In my free time, I am working on building YalnixOS.
+- 💞️ I am looking for Fall 2025 Software Engineering Internships.
 - 📫 I am looking to collaborate on any open-source projects related to my interests.
 
 ### Connect with me:
@@ -59,6 +59,7 @@
 ## 📚 Sample Programming Projects
 | **Project** | **Description** | **Programming Languages & Tools** |
 |-------------|-----------------|-----------------------------------|
+| [**YalnixOS**](https://github.com/sajjad-source/YalnixOS) | A Unix-like educational operating system kernel that includes low-level memory management, context switching, and system call handling. Developed for x86 architecture and runs on Linux. | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square) ![Linux](https://img.shields.io/badge/-Linux-000000?logo=linux&logoColor=white&style=flat-square) ![x86](https://img.shields.io/badge/-x86-0078D7?style=flat-square) ![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?logo=assembler&logoColor=white&style=flat-square) |
 | [**MediLink**](https://github.com/medilink-org) | A healthcare management system aimed at improving accessibility and modernizing the interface for under-resourced areas. Key features include patient data automation, cross-department communication, and mobile compatibility. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square) ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=flat-square) |
 | [**Tiny Search Engine**](https://github.com/sajjad-source/Tiny-Search-Engine) | A comprehensive search engine built in C, featuring a querier, crawler, and indexer. Includes custom data structures like hashtable, bag, and counter. | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square) ![Linux](https://img.shields.io/badge/-Linux-000000?logo=linux&logoColor=white&style=flat-square) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat-square) ![Valgrind](https://img.shields.io/badge/-Valgrind-1F8C00?logo=valgrind&logoColor=white&style=flat-square) ![GDB](https://img.shields.io/badge/-GDB-000000?logo=gdb&logoColor=white&style=flat-square) |
 | [**TetrisKernel**](https://github.com/sajjad-source/TetrisKernel) | A tiny operating system kernel written in Rust for the x86 architecture. | ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat-square) ![x86](https://img.shields.io/badge/-x86-0078D7?style=flat-square) |
