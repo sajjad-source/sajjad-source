@@ -1,7 +1,7 @@
 # Hi there, I'm Sajjad! 👋
 
 ## 🚀 About Me
-- 🌱 I have experience in developing complex software systems, including a healthcare management system and a comprehensive search engine. I have also worked on various applications ranging from a Rust kernel to a tiny operating system.
+- 🌱 I have experience in developing complex software systems, including a Unix OS kernel in C and a Rust-based kernel for x86. I’ve also built a healthcare management platform and a comprehensive search engine, along with various other applications across the stack.
 - 👨‍💻 I am currently incoming Software Engineer Intern @ Meta (Product Infrastructure at Facebook).
 - 💻 In my free time, I am working on building YalnixOS.
 - 💞️ I am looking for Fall 2025 Software Engineering Internships.
